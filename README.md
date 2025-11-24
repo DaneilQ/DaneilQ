@@ -1,4 +1,4 @@
-# Yellow 🐝, I'm Daniel Quintero
+# Yellow 🐝 , I'm Daniel Quintero
 
 I'm a **software developer**, **ux** and **motion designer** constantly learning new stuff.
 
