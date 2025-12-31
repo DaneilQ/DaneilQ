@@ -19,7 +19,7 @@ I'm currently working toward a bachelor's degree in software engineering, they h
 
 ## What I'm learning on my spare time
 
-- **Developing Emulators With C and C++**
+- **Rust Programming Language**
 - **Game Development** with Godot and GDscript.
 - **Portuguese language**
 
