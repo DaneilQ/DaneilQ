@@ -9,6 +9,7 @@ I'm a **software developer**, **ux** and **motion designer** constantly learning
 - **Nextjs** for high-quality interactive web apps
 - **Astro** for fast, lightweight static websites
 - **Nestjs**
+- **Java and Spring Boot** for large-scale, enterprise web applications.
 - **PostgreSQL and sqlite**
 - **Typescript**
 - Currently experimenting with **Deno** and **Bun** APIs
